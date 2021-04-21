@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhasanAbir
-- 👀 I’m a fresg CSE graduate
+- 👀 I’m a fresh CSE graduate
 - 🌱 I’m currently learning python
 - 💞️ I’ve completed Java, PHP, WOrdpress
 - 📫 How to reach me ... ahasanabir97@gmail.com

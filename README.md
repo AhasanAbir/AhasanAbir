@@ -44,7 +44,7 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 
 ---
 
-Curriculum Vitae: :memo: [SyedMahbubuzZaman](https://github.com/syedmahbubuzzaman/CV/blob/main/SyedMahbubuzZaman.pdf)
+Curriculum Vitae: :memo: [AhasanulHaqueAbir](https://github.com/AhasanAbir/Resume/blob/main/AhasanulHaqueAbir.pdf)
 
 #### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=syedmahbubuzzaman.syedmahbubuzzaman)
 

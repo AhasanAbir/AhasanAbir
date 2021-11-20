@@ -46,13 +46,13 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 
 Curriculum Vitae: :memo: [AhasanulHaqueAbir](https://github.com/AhasanAbir/Resume/blob/main/AhasanulHaqueAbir.pdf)
 
-#### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=syedmahbubuzzaman.syedmahbubuzzaman)
+#### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=AhasanAbir.AhasanAbir)
 
 
 #### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahbubuzzaman&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sAhasanAbir &hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![syedmahbubuzzaman's github stats](https://github-readme-stats.vercel.app/api?username=syedmahbubuzzaman&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ahasanul Haque Abir's github stats](https://github-readme-stats.vercel.app/api?username=syedmahbubuzzaman&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>

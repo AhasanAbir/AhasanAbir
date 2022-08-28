@@ -40,7 +40,7 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 
 ---
 ## Research Paper Link:
-![Link](https://doi.org/10.1007/978-981-19-1607-6_74)
+[Click Here](https://doi.org/10.1007/978-981-19-1607-6_74)
 
 Curriculum Vitae: :memo: [AhasanulHaqueAbir](https://github.com/AhasanAbir/Resume/blob/main/AhasanulHaqueAbir.pdf)
 

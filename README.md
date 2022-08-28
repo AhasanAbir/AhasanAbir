@@ -7,10 +7,10 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 [![Twitter Badge](https://img.shields.io/badge/-@Abir_DRZ-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Abir_DRZ)](https://twitter.com/Abir_DRZ) [![Linkedin Badge](https://img.shields.io/badge/-ahasanabir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahasanabir/) [![Mail Badge](https://img.shields.io/badge/-@ahasan_abir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ahasan_abir/) [![Mail Badge](https://img.shields.io/badge/-ahasanul.haque.abir@g.bracu.ac.bd-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahasanul.haque.abir@g.bracu.ac.bd)
 
 #### About Me:
-- 🧑‍🎓 I have completed my undergraduate in Computer Software and Engineering from Brac University. :bangladesh: 
+- 🧑‍🎓 I have completed my undergraduate under Computer Science and Engineering department from Brac University. :bangladesh: 
 - :coffee: I had extensive training in Java during my undergrad.
 - :snake: I enjoy coding in python as it's simple but scalable.
-- :desktop_computer: I look forward to become a data analyst in the near future.
+- :desktop_computer: I look forward to become a Software Enginner in the near future.
 - :joystick: I love to play FPS games.
 
 #### Interests:

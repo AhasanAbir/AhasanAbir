@@ -25,11 +25,8 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 
 ## Framework I know:
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Juptyr](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ## ML-Frameworks I used:
 
@@ -42,6 +39,8 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+## Research Paper Link:
+![Link](https://doi.org/10.1007/978-981-19-1607-6_74)
 
 Curriculum Vitae: :memo: [AhasanulHaqueAbir](https://github.com/AhasanAbir/Resume/blob/main/AhasanulHaqueAbir.pdf)
 

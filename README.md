@@ -39,7 +39,6 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Cyber Security Profile:
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ahasanul.Haque.png" alt="TryHackMe">
 
 ## Research Paper Link:
 [Click Here](https://doi.org/10.1007/978-981-19-1607-6_74)

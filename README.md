@@ -40,8 +40,6 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 
 ## Cyber Security Profile:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ahasanul.Haque.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/2416720"></script>
-<img src="https://tryhackme.com/badge/2416720" alt="TryHackMe">
 
 ## Research Paper Link:
 [Click Here](https://doi.org/10.1007/978-981-19-1607-6_74)

@@ -38,9 +38,6 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## TryHackMe Profile:
-![TryHackMe](https://tryhackme.com/badge/2416720)
-
 ## Research Paper Link:
 [Click Here](https://doi.org/10.1007/978-981-19-1607-6_74)
 
